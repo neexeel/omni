@@ -2,7 +2,16 @@
 
 Free anime streaming web interface.
 
-https://discord.gg/hHXMaG4GJh
+## COMING SOON!!!
+
+- A completely new forums website for our users to enjoy
+- User accounts on OmniAnime
+- Messaging system?
+- Commenting system?
+
+# WHEN THE FORUMS ARE AVAILABLE THE LINK WILL APPEAR RIGHT BELOW!!:
+
+(Hi this is where the link is supposed to be)
 
 ## About
 OmniAnime is a client-side web app that aggregates video streams from various third-party sources.
